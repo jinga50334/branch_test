@@ -10,3 +10,9 @@ subprocess.Popen('echo pangdun',shell=True)
 subprocess.Popen('echo ruchao',shell=True)
 subprocess.Popen('MASTER BRACH',shell=True)
 subprocess.Popen('echo dev branch',shell=True)
+subprocess.Popen('echo dev merge0',shell=True)
+
+
+
+
+subprocess.Popen('echo dev merger',shell=True)
