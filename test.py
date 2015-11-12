@@ -16,3 +16,4 @@ subprocess.Popen('echo dev merge0',shell=True)
 
 
 subprocess.Popen('echo dev merger',shell=True)
+subprocess.Popen('echo master merger',shell=True)
