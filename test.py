@@ -8,4 +8,8 @@ subprocess.Popen('echo hufu',shell=True)
 subprocess.Popen('echo zhuzhu',shell=True)
 subprocess.Popen('echo pangdun',shell=True)
 subprocess.Popen('echo ruchao',shell=True)
+<<<<<<< HEAD
 subprocess.Popen('MASTER BRACH',shell=True)
+=======
+subprocess.Popen('echo dev branch',shell=True)
+>>>>>>> develop
